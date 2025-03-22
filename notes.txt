@@ -1,0 +1,4 @@
+this project uses a custom ISA but heavily influenced by x86 and ARM
+each instruction will be __ bits long
+we'll use strings to hold binary information (so we can see it and manage it easily in Python)
+the CPU isn't implemented using circuits, but with python so we can use python abstractions for things like adding

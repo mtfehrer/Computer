@@ -1,0 +1,23 @@
+instructions:
+mov
+push
+pop
+add
+sub
+xor
+and
+or
+cmp
+test
+
+create c compiler
+
+assembler
+
+multithreading
+
+gpu
+
+ram
+
+disk
