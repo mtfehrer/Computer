@@ -21,3 +21,9 @@ gpu
 ram
 
 disk
+
+function stack frames
+
+end to end tests
+
+logging
